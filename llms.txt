@@ -1,0 +1,35 @@
+VinMemory — Full AI Index
+This is the extended reference index for the VinMemory repository, optimized for AI consumption.
+It lists all significant documents, deep links, and structured categories.
+
+1. Prompts
+prompts/README.md — Overview of prompt patterns.
+
+prompts/system-prompts.md — Ready-to-use system prompts.
+
+prompts/json-style.md — JSON output prompt patterns.
+
+2. Guides
+guides/README.md — Navigation hub for all guides.
+
+guides/tool-X-setup.md — Setup steps for Tool X.
+
+guides/workflow-automation.md — Automating AI-assisted workflows.
+
+3. Cheatsheets
+cheatsheets/README.md — Cheatsheet collection index.
+
+cheatsheets/regex.md — Common regex patterns.
+
+cheatsheets/shell.md — Shell command quick reference.
+
+4. Assets
+assets/ — Images, diagrams, and supplementary files.
+
+5. GitMCP Connection Info
+MCP SSE URL: https://gitmcp.io/vdeaugustine/VinMemory
+
+GitMCP Badge:
+
+
+Last updated: 2025-08-10
