@@ -1,0 +1,15 @@
+# VinMemory
+
+A public, AI-friendly reference library for curated prompts, guides, and cheatsheets.  
+Designed to work with [GitMCP](https://gitmcp.io) so AI tools can connect directly.
+
+## Key Sections
+- [Prompts](prompts/README.md) — Prompt templates and patterns.
+- [Guides](guides/README.md) — Step-by-step workflows and tool instructions.
+- [Cheatsheets](cheatsheets/README.md) — Quick reference for commands and syntax.
+
+## GitMCP Connection
+MCP SSE URL: https://gitmcp.io/vdeaugustine/VinMemory
+
+---
+Last updated: 2025-08-10
