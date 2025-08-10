@@ -25,6 +25,10 @@ cheatsheets/shell.md — Shell command quick reference.
 
 cheatsheets/swiftConcurrency.md - Document for reference for Swift Concurrency best practices
 
+cheatsheets/SwiftData.md - Reference for SwiftData
+
+cheatsheets/SwiftData.md - More detailed reference for SwiftData
+
 4. Assets
 assets/ — Images, diagrams, and supplementary files.
 
